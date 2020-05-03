@@ -15,8 +15,3 @@ let question2 = prompt("Во сколько обойдется?");
 appData.expenses[question1] = question2;
 alert("Бюджет на 1 день:" + (money/30));
 console.log(appData);
-
-//  Ответы на вопросы
-// 1) - 7
-// 2) - console.log();
-// 3) || - или(одно условие должно быть true) && - и(все условие только true,еслы false - не будет работать) 
